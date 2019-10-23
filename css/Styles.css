@@ -3,6 +3,8 @@ h1 {
   font-weight: bold;
   text-align: center;
 
+  text-shadow: 2px 2px #76508e;
+
 }
 
 p {
@@ -44,7 +46,7 @@ background-size: cover;
 }
 
 .first{
-border-top-style: dotted;
+ border-top-style: dotted;
  border-right-style: solid;
  border-bottom-style: dotted;
  border-left-style: solid;
@@ -57,5 +59,16 @@ border-top-style: dotted;
   font-size: 20px;
   color:white;
   background-color: ;
-
+}
+.design{
+  border-color: white;
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+  border-radius: 8px;
+  border-width: 1px;
+}
+h2{
+  text-decoration: underline;
 }
