@@ -1,0 +1,61 @@
+h1 {
+  color: #fff5b5;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+p {
+  color: white;
+  text-align: left;
+}
+
+.payment {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+ th {
+  border: 1px solid black;
+
+  text-align: center;
+  background-color: #3e64ff;
+  color: white
+}
+
+table ,tr ,td{
+  border-collapse: collapse;
+  border: 1px solid #5e3b4d;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  background-color: #0c093c;
+}
+
+label {
+  color: white;
+}
+body{
+
+background-repeat: repeat-x;
+background-size: cover;
+}
+
+.first{
+border-top-style: dotted;
+ border-right-style: solid;
+ border-bottom-style: dotted;
+ border-left-style: solid;
+ border-radius: 8px;
+
+  border-width: 5px;
+
+}
+.second{
+  font-size: 20px;
+  color:white;
+  background-color: ;
+
+}
